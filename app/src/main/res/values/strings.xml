@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Etec-ParImpar</string>
+    <string name="numero">Número:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="processar">Processar</string>
+
+
+</resources>
